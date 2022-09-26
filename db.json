@@ -109,5 +109,27 @@
       "title": "in quibusdam tempore odit est dolorem",
       "body": "itaque id aut magnam\npraesentium quia et ea odit et ea voluptas et\nsapiente quia nihil amet occaecati quia id voluptatem\nincidunt ea est distinctio odio"
     }
+  ],
+  "trips": [
+    {
+      "title": "2 Night Stay in Venice",
+      "price": "£195",
+      "id": "1"
+    },
+    {
+      "title": "3 Night Stay in Paris",
+      "price": "£295",
+      "id": "2"
+    },
+    {
+      "title": "4 Night Stay in London",
+      "price": "£345",
+      "id": "3"
+    },
+    {
+      "title": "3 Night Stay in New York",
+      "price": "£325",
+      "id": "4"
+    }
   ]
 }
